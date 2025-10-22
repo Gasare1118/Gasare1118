@@ -1,4 +1,4 @@
-I’m an aspiring AWS Cloud Engineer passionate about cloud computing, AI, and Generative AI. I enjoy exploring cutting-edge technologies, solving challenging problems, and sharing knowledge through projects and blog posts. My journey is all about continuous learning and helping others succeed in the tech world.
+I’m an aspiring Cloud Security Engineer passionate about cloud computing, AI, and Generative AI. I enjoy exploring cutting-edge technologies, solving challenging problems, and sharing knowledge through projects and blog posts. My journey is all about continuous learning and helping others succeed in the tech world.
 
 Currently working on: Mastering AWS solutions and preparing for the Solutions Architect Associate exam
 Interested in: Cloud computing, AI, Generative AI, and automation
